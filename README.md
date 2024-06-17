@@ -1,0 +1,1 @@
+this project where we used jdbc and J2EE to make dynamic project where it where we used html form where it user details after that it will chack with the database if its true then it will login and at the top it will display the name of the user after that user can now use the website.
